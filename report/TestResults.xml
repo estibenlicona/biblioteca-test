@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="07/23/2023 07:46:01">
+  <assembly name="/projects/challenge/PruebaIngresoBibliotecario/PruebaIngresoBibliotecario.Api.Tests/bin/Debug/netcoreapp3.0/PruebaIngresoBibliotecario.Api.Tests.dll" run-date="2023-07-23" run-time="07:46:01" total="8" passed="8" failed="0" skipped="0" time="2.587" errors="0">
+    <errors />
+    <collection total="8" passed="8" failed="0" skipped="0" name="Test collection for Api.Test.PrestamoControllerTest" time="2.587">
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoAfiliadoIsbnError" type="Api.Test.PrestamoControllerTest" method="PostPrestamoAfiliadoIsbnError" time="1.7076198" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoAfiliadoFechaEntregaExito" type="Api.Test.PrestamoControllerTest" method="PostPrestamoAfiliadoFechaEntregaExito" time="0.3866859" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoError" type="Api.Test.PrestamoControllerTest" method="PostPrestamoError" time="0.1705914" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoAfiliadoTipoUsuarioError" type="Api.Test.PrestamoControllerTest" method="PostPrestamoAfiliadoTipoUsuarioError" time="0.0439508" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoEmpleadoFechaEntregaExito" type="Api.Test.PrestamoControllerTest" method="PostPrestamoEmpleadoFechaEntregaExito" time="0.0714512" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.PostPrestamoInvitadoFechaEntregaExito" type="Api.Test.PrestamoControllerTest" method="PostPrestamoInvitadoFechaEntregaExito" time="0.0572142" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.GetPrestamoExito" type="Api.Test.PrestamoControllerTest" method="GetPrestamoExito" time="0.1039813" result="Pass">
+        <traits />
+      </test>
+      <test name="Api.Test.PrestamoControllerTest.GetPrestamoError" type="Api.Test.PrestamoControllerTest" method="GetPrestamoError" time="0.0458502" result="Pass">
+        <traits />
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
